@@ -1,9 +1,15 @@
-## Welcome to GitHub Pages
+## Choose the right econometric test!
 
-You can use the [editor on GitHub](https://github.com/krishnasrini/regressiondatabase/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Answer a few questions about your data to identify which is the right
+econometric tool for you setting.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# Get started
+What is your prowess with econometrics?
+- [Novice]
+- [Intermediate]
+
+<!--
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -12,7 +18,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Regression Database
-This website will help you pick the right econometric tool based on a few questions. 
+This website will help you pick the right econometric tool based on a few questions.
 ## Header 2
 ### Header 3
 
@@ -35,4 +41,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
