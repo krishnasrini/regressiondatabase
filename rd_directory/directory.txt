@@ -1,0 +1,84 @@
+########################################################################
+Desription: This file contains the directory of tests. see REDME.txt for
+general information on the website.
+#Author: Krishna Srinivasan
+#Designation: PhD student, University of Zurich
+#Email: krishna.srinivasan[at]econ.uzh.ch
+########################################################################
+
+
+########################################################################
+#### Introduction
+Result pages can be found in "main/templates/pages.py" and have the prefix "R_".
+e.g. R_A1B1C1D1 indicates that an individual is a novice (A=1), has cross
+section data (B=1), has one dependent variable (C=1), and has a binary
+dependent variable (D=1).
+
+#### Classification 
+#A: level
+choices=[
+        [1, 'Novice'],
+        [2, 'Intermediate']
+        ]
+#B: data
+choices=[
+        [1, 'Cross section'],
+        [2, 'Time series'],
+        [3, 'Pooled cross section'],
+        [4, 'Panel data']
+        ],
+#C: 
+choices=[
+        [1, 'One'],
+        [2, 'Two or more']
+        ]
+#D: deptype 
+choices=[
+        [1, 'Binary'],
+        [2, 'Categorical'],
+        [3, 'Ordered'],
+        [4, 'Count'],
+        [5, 'Continuous']
+        ],
+
+########################################################################
+
+
+########################################################################
+##General links
+Microeconometrics using STATA: Cameron and Trivedi (2009) (CT2009)
+https://www.stata.com/bookstore/microeconometrics-stata/
+
+########################################################################
+#### Cross-section data
+
+## R_A1B1C1D1
+- Microeconometrics with STATA Chapter 14
+1. LPM
+-STATA https://www.stata.com/manuals13/rregress.pdf
+2. Logit
+3. Probit
+
+## R_A2B1C1D1
+- Microeconometrics with STATA Chapter 14
+1. LPM
+-STATA https://www.stata.com/manuals13/rregress.pdf
+2. Logit
+3. Probit
+4.
+
+## R_A2B1C1D3
+
+## R_A2B1C1D4
+1. Linear Regression
+-STATA https://www.stata.com/manuals13/rregress.pdf
+2. Poisson
+3. Negative binomial regression (NB1/NB2)
+
+## R_A2B1C1D4
+1. Linear Regression
+-STATA https://www.stata.com/manuals13/rregress.pdf
+2. Poisson
+3. Negative binomial regression (NB1/NB2)
+4. ZIP/ZINB
+5. Finite Mixture model
