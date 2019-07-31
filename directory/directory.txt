@@ -41,23 +41,26 @@ choices=[
         [5, 'Continuous']
         ],
 
-########################################################################
-
 
 ########################################################################
 ##General links
 Microeconometrics using STATA: Cameron and Trivedi (2009) (CT2009)
 https://www.stata.com/bookstore/microeconometrics-stata/
+https://stats.idre.ucla.edu/other/dae/
 
 ########################################################################
 #### Cross-section data
 
 ## R_A1B1C1D1
 - Microeconometrics with STATA Chapter 14
-1. LPM
--STATA https://www.stata.com/manuals13/rregress.pdf
+1. Linear probability model
+- STATA https://www.stata.com/manuals13/rregress.pdf
+
 2. Logit
+- STATA https://www.stata.com/manuals13/rlogit.pdf
+- R example https://stats.idre.ucla.edu/r/dae/logit-regression/
 3. Probit
+- STATA https://www.stata.com/manuals13/rprobit.pdf
 
 ## R_A2B1C1D1
 - Microeconometrics with STATA Chapter 14
